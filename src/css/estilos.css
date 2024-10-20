@@ -152,6 +152,7 @@ body {
 
 .projetos .projeto img {
     height: 100%;
+    border-radius: 10px;
 }
 
 .projetos .projeto h3 {
